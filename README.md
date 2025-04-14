@@ -13,7 +13,7 @@ The goal of this project is to build a predictive model using historical loan ap
 - Pandas, NumPy, Matplotlib, Seaborn (for data analysis and visualization)  
 - Scikit-learn (for building the ML model)
 
- **Workflow**
+ ## Workflow
 
 1. Data Cleaning and Preprocessing  
 2. Exploratory Data Analysis (EDA)  
@@ -22,11 +22,11 @@ The goal of this project is to build a predictive model using historical loan ap
 5. Model Evaluation  
 6. Making Predictions
 
-**Results** 
+## Results
 
 The model was successfully trained and tested, providing accurate predictions for loan approval status based on input features.
 
- **How to Run**
+ ## How to Run
 
 1. Clone the repository  
 2. Open the notebook  
